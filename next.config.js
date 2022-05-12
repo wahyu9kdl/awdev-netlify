@@ -14,6 +14,7 @@ const defaultOptions = withBundleAnalyzer({
       'static.gotsby.org',
       'static.ghost.org',
       'gatsby.ghost.io',
+      'awdev.netlify.app',
       'ghost.org',
       'repository-images.githubusercontent.com',
       'www.gravatar.com',
