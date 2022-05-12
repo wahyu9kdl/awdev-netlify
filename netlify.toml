@@ -1,6 +1,6 @@
 [build]
   command = "yarn build"
-  publish = ".next"
+  publish = ".awdev"
 
 [build.environment]
   JAMIFY_NEXT_ISR = "false"
