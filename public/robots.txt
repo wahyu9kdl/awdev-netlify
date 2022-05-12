@@ -3,8 +3,8 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://next.jamify.org
+Host: https://awdev.netlify.app/
 
 # Sitemaps
-Sitemap: https://next.jamify.org/sitemap.xml
-Sitemap: https://next.jamify.org/sitemap-0.xml
+Sitemap: https://awdev.netlify.app/sitemap.xml
+Sitemap: https://awdev.netlify.app/sitemap-0.xml
